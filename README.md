@@ -1,2 +1,2 @@
 # AtariSamples
-Atari Sample Code
+## We will build some exciting samples for Atari 2600
