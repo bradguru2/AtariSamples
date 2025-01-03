@@ -8,6 +8,9 @@
 *.log
 *.log.*
 *.sig
+*.bin
+*.lst
+*.sym
 
 pkg/
 src/
