@@ -6,7 +6,6 @@ Breakout Clone is a retro-style arcade game inspired by classic Atari games. The
 ![image](https://github.com/user-attachments/assets/217a1f57-4b54-4b17-a7d1-4904ae3c1db4)
 ![image](https://github.com/user-attachments/assets/e616d1f7-e555-4ab3-ac87-f7748875a7e9)
 
-
 ## Gameplay
 - **Controls**: Use the joystick to move your paddle.
 - **Objective**: Clear all blocks without letting ball fall through to the bottom
